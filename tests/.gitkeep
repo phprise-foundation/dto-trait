@@ -1,0 +1,3 @@
+# Tests for Atomic Repository
+# Mandatory: Every logic path must be covered by unit tests.
+# These tests verify the contract implementation in src/.
