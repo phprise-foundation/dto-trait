@@ -43,3 +43,4 @@ Please read more about it in [PHILOSOPHY.md](PHILOSOPHY.md).
 MIT License
 
 Free to use, modify, and distribute.
+```
