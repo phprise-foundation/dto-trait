@@ -36,7 +36,7 @@ We follow **The OTAKU Manifesto: Fluid Structure Design**.
 4. **K** - Keep Infrastructure Silent (Infrastructure is just a detail)
 5. **U** - Universal Language & Contracts (Speak the user's language via clear contracts)
 
-Please read more about it in [PHILOSOPHY.md](PHILOSOPHY.md).
+Please read more about it in [OTAKU Manifesto](https://otakumanifesto.org/manifesto/).
 
 
 ## License
